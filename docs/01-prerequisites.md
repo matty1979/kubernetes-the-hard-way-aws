@@ -17,7 +17,10 @@ Verify the AWS CLI version using:
 ```
 aws --version
 ```
-
+For Mac users utilzing brew to install the AWS CLI is far easier 
+```
+brew install awscli
+```
 ### Set a Default Compute Region and Zone
 
 This tutorial assumes a default compute region and zone have been configured.
