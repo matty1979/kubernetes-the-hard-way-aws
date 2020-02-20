@@ -5,6 +5,12 @@
 This tutorial leverages the [Amazon Web Services](https://aws.amazon.com/) to streamline provisioning of the compute infrastructure required to bootstrap a Kubernetes cluster from the ground up. It would cost less then $2 for a 24 hour period that would take to complete this exercise.
 
 > The compute resources required for this tutorial exceed the Amazon Web Services free tier. Make sure that you clean up the resource at the end of the activity to avoid incurring unwanted costs. 
+## Homebrew install on MAC 
+Follow the Homebrew documentation located here [HomeBrew](https://brew.sh/)
+Running the following from a command line to install 
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ## Amazon Web Services CLI
 
